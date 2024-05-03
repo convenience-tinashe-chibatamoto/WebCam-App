@@ -8,6 +8,8 @@ Webcam Capture: The app allows users to capture images using their webcam and di
 Image Upload: Users can upload images from their local file system, and the app will convert the uploaded image to grayscale and display it.
 
 Usage<br>
+You can visit this URL to try out the app for yourself: https://webcam-app-1.streamlit.app/
+Alternatively, if you have Python installed:
 Run the Python script using the following command:<br>
 streamlit run web.py
 
